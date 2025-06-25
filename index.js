@@ -141,6 +141,7 @@ app.post('/coins', async (req, res) => {
       <html>
         <head>
           <title>My Ninja Bank</title>
+          <link rel="icon" type="image/png" href="/favicon.png">
           <style>
             body {
               font-family: 'Segoe UI', sans-serif;
@@ -233,6 +234,7 @@ app.get('/sensei-login', (req, res) => {
     <html>
       <head>
         <title>Sensei Login - My Ninja Bank</title>
+        <link rel="icon" type="image/png" href="/favicon.png">
         <style>
           body {
             font-family: 'Segoe UI', sans-serif;
@@ -390,6 +392,7 @@ app.get('/add-coins', async (req, res) => {
     <html>
       <head>
         <title>Add Coins - My Ninja Bank</title>
+        <link rel="icon" type="image/png" href="/favicon.png">
         <style>
           body {
             font-family: 'Segoe UI', sans-serif;
@@ -515,6 +518,7 @@ app.post('/add-coins', async (req, res) => {
       <html>
         <head>
           <title>Transaction Added</title>
+          <link rel="icon" type="image/png" href="/favicon.png">
           <style>
             body {
               font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
