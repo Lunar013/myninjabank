@@ -141,7 +141,6 @@ app.post('/coins', async (req, res) => {
       <html>
         <head>
           <title>My Ninja Bank</title>
-          <link rel="icon" type="image/png" href="/favicon.png">
           <style>
             body {
               font-family: 'Segoe UI', sans-serif;
